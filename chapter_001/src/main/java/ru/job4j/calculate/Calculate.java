@@ -2,7 +2,7 @@ package ru.job4j.calculate;
 
 /**
 *класс для вывода привет мир
-*@autor tyuterev
+*@author tyuterev
 *@since 28.03.2019
 *@version 1
 */
