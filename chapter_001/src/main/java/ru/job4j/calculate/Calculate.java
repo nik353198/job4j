@@ -8,15 +8,20 @@ package ru.job4j.calculate;
 */
 
 
-public class Calculate{
+public class Calculate {
 	/**
 	*main
 	*@param args - args
 	*/
 	public static void main(String[] args) {
-		/** 
-		* вывод привет мир
-		*/
 		System.out.println("Hello, World");
+	}
+	/**
+	*метод эхо.
+	*@param name - твое имя
+	*@return Echo плюс твое имя.
+	*/
+	public String echo(String name) {
+		return "Echo, echo, echo : " + name;
 	}
 }
